@@ -1,0 +1,10 @@
+streamlit
+groq
+anthropic
+google-generativeai
+requests
+gTTS
+psutil
+Pillow
+mediapipe
+opencv-python-headless
