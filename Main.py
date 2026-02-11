@@ -14,9 +14,9 @@ import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 # --- API KEYS ---
-GROQ_KEY = "YOUR_GROQ_KEY"
-CLAUDE_KEY = "YOUR_CLAUDE_KEY"
-GEMINI_KEY = "YOUR_GEMINI_KEY"
+GROQ_KEY = "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"
+CLAUDE_KEY = "https://claude-opus-chatbot.onrender.com"
+GEMINI_KEY = "AIzaSyA9ZLXSqTeR523bbqUICKRcc_aA2fsubPo"
 
 groq_client = Groq(api_key=GROQ_KEY)
 claude_client = Anthropic(api_key=CLAUDE_KEY)
